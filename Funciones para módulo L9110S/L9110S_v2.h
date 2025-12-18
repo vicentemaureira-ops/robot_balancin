@@ -1,7 +1,6 @@
 //Módulo doble puente H L9110S
 //Calibración corriente: En la corriente analogica de 0-255, recien a los 150 los motores empiezan a moverse de manera segura.
-//Por lo que para no avanzar poner un 0, para avanzar lento 150 y rápido 255.
-//Cuando se deja un pin en valor 0 y el otro en pwm, el motor avanza hacía una dirección. Para la dirección contraria se hace lo mismo, pero con los pines invertidos.
+  //Por lo que para no avanzar poner un 0, para avanzar lento 150 y rápido 255.
 
 
 /* ---------- FUNCIONES ---------- */
